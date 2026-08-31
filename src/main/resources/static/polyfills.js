@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclubcore60_frontend=self.webpackChunkclubcore60_frontend||[]).push([[461],{50:()=>{}},e=>{e(e.s=50)}]);
